@@ -33,4 +33,5 @@ Forrest = media13.Movie("forrest gump",
                       "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
                       "https://www.youtube.com/watch?v=YNh9Es8Ut6U")
 movies = [Mountains_May_Depart,Dangal,Wolf_Warriors2,Shawshank,Bullets_Fly,Forrest]
+#make movie lists and used for fresh_tomatoes.open_movies_page()
 fresh_tomatoes.open_movies_page(movies)
